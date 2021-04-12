@@ -27,7 +27,7 @@ Next, create a file named bsconfig.json at the same level at your package.json w
 
 ```json
 {
-  "name": "my-reason-expo-app",
+  "name": "my-rescript-expo-app",
   "reason": {
     "react-jsx": 3
   },
