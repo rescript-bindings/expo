@@ -59,7 +59,8 @@ module Source = {
 }
 
 module Sound = {
-  type t = Js.t<_sound>
+  // TODO: need type
+  type t
 
   @new @module("expo-av") @scope("Audio")
   external make: unit => t = "Sound"
@@ -79,7 +80,8 @@ module Recording = {
     durationMillis: int,
   }
 
-  type t = Js.t<_recording>
+  // TODO: need type
+  type t
 
   @new @module("expo-av") @scope("Audio")
   external make: unit => t = "Recording"

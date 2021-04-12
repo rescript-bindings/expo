@@ -1,7 +1,6 @@
 module NativeAdsManager = {
-
-
-  type t = Js.t<_adsManager>
+  // TODO: Need type
+  type t
 
   @new @module("expo-ads-facebook")
   external make: (string, int) => t = "NativeAdsManager"
