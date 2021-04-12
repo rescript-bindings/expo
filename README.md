@@ -32,7 +32,7 @@ Next, create a file named bsconfig.json at the same level at your package.json w
     "react-jsx": 3
   },
   "bsc-flags": ["-bs-super-errors"],
-  "bs-dependencies": ["@rescript/react", "rescript-react-native", "rescript-expo"],
+  "bs-dependencies": ["@rescript/react", "rescript-react-native", "@rescript-bindings/expo"],
   "sources": [
     {
       "dir": "src"

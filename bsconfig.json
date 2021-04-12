@@ -1,5 +1,5 @@
 {
-  "name": "rescript-expo",
+  "name": "@rescript-bindings/expo",
   "bsc-flags": ["-bs-super-errors"],
   "reason": { "react-jsx": 3 },
   "refmt": 3,

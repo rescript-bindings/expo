@@ -1,7 +1,7 @@
 {
-  "name": "rescript-expo",
+  "name": "@rescript-bindings/expo",
   "description": "Rescript bindings for Expo",
-  "version": "40.0.0",
+  "version": "40.0.1",
   "scripts": {
     "build": "bsb -make-world",
     "watch": "bsb -make-world -w",
@@ -30,7 +30,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
     "rescript-react-native": "^0.64.2"
   },
-  "bugs": "https://github.com/fiberjw/reason-expo/issues",
+  "bugs": "https://github.com/Miruzz/rescript-expo/issues",
   "peerDependencies": {
     "@rescript/react": "^0.10.1",
     "expo": "~40.0.0",
