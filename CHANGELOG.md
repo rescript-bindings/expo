@@ -1,3 +1,6 @@
+# v.40.1.1
+- Github Actions was added
+
 # v. 40.1.0
 - StatusBar bindings was added
 
