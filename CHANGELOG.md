@@ -1,3 +1,6 @@
+# v.40.3.0
+- Clipboard bindings was added
+
 # v.40.2.0
 - ViewPager bindings was added
 
