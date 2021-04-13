@@ -1,3 +1,6 @@
+# v.40.3.1
+- fix Actions pipeline
+
 # v.40.3.0
 - Clipboard bindings was added
 

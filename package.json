@@ -1,7 +1,7 @@
 {
   "name": "@rescript-bindings/expo",
   "description": "Rescript bindings for Expo",
-  "version": "40.3.0",
+  "version": "40.3.1",
   "scripts": {
     "build": "bsb -make-world",
     "watch": "bsb -make-world -w",
