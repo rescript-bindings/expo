@@ -20,7 +20,7 @@ Go into your project root & then install the requirements:
 
 ```bash
 yarn add bs-platform --dev
-yarn add @rescript/react rescript-react-native rescript-expo
+yarn add @rescript/react rescript-react-native @rescript-bindings/expo
 ```
 
 Next, create a file named bsconfig.json at the same level at your package.json with the following content:
